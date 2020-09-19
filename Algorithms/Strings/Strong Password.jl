@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/strong-password/problem?h_r=next-challenge&h_v=zen
+
 numbers = "0123456789"
 lower_case = "abcdefghijklmnopqrstuvwxyz"
 upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
